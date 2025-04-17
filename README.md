@@ -2,8 +2,17 @@
 This repository contains the simulation environment for the DualHusky mobile platform and the source code for the CRM-PPO learning model.
 
 # dexHusky Mobile Platform
+
+<p align="center"> 
+<img src="images/t1.gif" alt="simu env" width="280"/>
+<img src="images/t2.gif" alt="simu env" width="280"/>
+<img src="images/t3.gif" alt="simu env" width="280"/>
+<img src="images/t4.gif" alt="simu env" width="280"/>
+</p>
+
 The platform consists of a Husky UGV (Unmanned Ground Vehicle) for mobility, two UR5e robotic arms, a Schunk SVH robotic hand (right), and a PSYONIC Ability Hand (left). Each robotic hand is mounted on a UR5e arm, and both arms are integrated with the Husky base.
-<p align="center"> <img src="images/initial.png" alt="simu env" width="320" height='189'/><img src="images/dualHusky.jpg" alt="dexDual" width="320"/></p>
+<p align="center"> 
+<img src="images/dualHusky.jpg" alt="dexDual" width="400"/></p>
 
 The simulation environment is developed using PyBullet within the Gym framework. It supports reinforcement learning and enables various applications, including dexterous manipulation, dual-arm coordination, or autonomous navigation tasks.
 
