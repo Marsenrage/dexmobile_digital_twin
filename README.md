@@ -13,7 +13,7 @@ A reinforcement learning framework that incorporates a Contextual Reward Machine
 <p align="center"> <img src="images/system.jpg" alt="System Structure" width="660"/></p>
 
 The Contextual Reward Machine reduces task complexity by decomposing grasping tasks into manageable subtasks. Each sub-task is associated with a stage-specific context, including a reward function, an action space, and a state abstraction function. 
-<p align="center"> <img src="images/crm.jpg" alt="task decomposition" width="500"/></p>
+<p align="center"> <img src="images/crm.jpg" alt="task decomposition" width="400"/></p>
 
 Integrated with Proximal Policy Optimization, the proposed Contextual Reward Machine significantly improves learning efficiency, task robustness, and adaptability. It achieved a 95% success rate across 1,000 grasping tasks involving diverse objects, affordances, and grasp topologies.
 
@@ -25,6 +25,6 @@ The CRM-PPO is compared with state-of-the-art baselines and outperformed them in
 
 The trained model was transferred to the real world environment and aviheved a success rate of 83.3%.
 
-<p align="center"> <img src="images/real.jpg" alt="task decomposition" width="640"/></p>
+<p align="center"> <img src="images/real.jpg" alt="task decomposition" width="440"/></p>
 
 This paper has been submitted to IEEE Transactions on Systems, Man, and Cybernetic: Systems
