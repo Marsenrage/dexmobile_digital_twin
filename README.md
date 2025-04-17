@@ -1,7 +1,5 @@
 # Overview
-This repository contains the simulation environment for the DualHusky mobile platform and the source code for the CRM-PPO learning model.
-
-# dexHusky Mobile Platform
+This repository contains the simulation environment for the DualHusky mobile platform and the source code for the CRM-PPO reinforcement learning model.
 
 <p align="center"> 
 <img src="images/t1.gif" alt="simu env" width="280"/>
@@ -9,6 +7,8 @@ This repository contains the simulation environment for the DualHusky mobile pla
 <img src="images/t3.gif" alt="simu env" width="280"/>
 <img src="images/t4.gif" alt="simu env" width="280"/>
 </p>
+
+# dexHusky Mobile Platform
 
 The platform consists of a Husky UGV (Unmanned Ground Vehicle) for mobility, two UR5e robotic arms, a Schunk SVH robotic hand (right), and a PSYONIC Ability Hand (left). Each robotic hand is mounted on a UR5e arm, and both arms are integrated with the Husky base.
 <p align="center"> 
