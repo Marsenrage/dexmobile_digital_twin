@@ -19,7 +19,7 @@ Integrated with Proximal Policy Optimization, the proposed Contextual Reward Mac
 
 <p align="center"> <img src="images/traj.jpg" alt="task decomposition" width="640"/></p>
 
-The CRM-PPO is compared with state-of-the-art baselines and outperformed them in evaluation metrics of task success rate and task completion time.
+CRM-PPO is compared with state-of-the-art baselines and outperforms them in task success rate and task completion time.
 
 <p align="center"> <img src="images/simu_result.jpg" alt="task decomposition" width="640"/></p>
 
