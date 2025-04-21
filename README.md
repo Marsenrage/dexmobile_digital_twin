@@ -10,7 +10,7 @@ This repository provides the simulation environment for the DexMobile platform a
 
 # DexMobile Platform
 
-The platform consists of a Husky UGV (Unmanned Ground Vehicle) for mobility, two UR5e robotic arms, a Schunk SVH robotic hand (right), and a PSYONIC Ability Hand (left). Each robotic hand is mounted on a UR5e arm, and both arms are integrated with the Husky base.
+The DexMobile platform consists of a Husky UGV (Unmanned Ground Vehicle) for mobility, two UR5e robotic arms, a Schunk SVH robotic hand (right), and a PSYONIC Ability Hand (left). Each robotic hand is mounted on a UR5e arm, and both arms are integrated with the Husky base.
 <p align="center"> 
 <img src="images/dualHusky.jpg" alt="dexDual" width="400"/></p>
 
