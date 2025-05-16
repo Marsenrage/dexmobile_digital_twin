@@ -1,14 +1,6 @@
 # Overview
 This repository provides the simulation environment for the DexMobile platform and the source code for the CRM-PPO reinforcement learning model, designed for task-oriented grasping.
 
-<p align="center"> 
-  <video src="videos/ftwistx2_c.mp4" width="170" autoplay muted loop playsinline></video>
-  <video src="videos/ftwistx2_c.mp4" width="180" autoplay muted loop playsinline></video>
-  <video src="videos/ftwistx2_c.mp4" width="180" autoplay muted loop playsinline></video>
-  <video src="videos/ftwistx2_c.mp4" width="180" autoplay muted loop playsinline></video>
-</p>
-
-
 
 <p align="center"> 
 <img src="images/t1.gif" alt="simu env" width="180"/>
