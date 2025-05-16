@@ -3,18 +3,18 @@ This repository provides the simulation environment for the DexMobile platform a
 
 
 <p align="center"> 
-<img src="images/twist.gif" alt="simu env" width="200"/>
-<img src="images/press.gif" alt="simu env" width="200"/>
-<img src="images/pull.gif" alt="simu env" width="200"/>
-<img src="images/wrap.gif" alt="simu env" width="200"/>
+<img src="images/twist.gif" alt="simu env" width="280"/>
+<img src="images/press.gif" alt="simu env" width="280"/>
+<img src="images/pull.gif" alt="simu env" width="280"/>
+<img src="images/wrap.gif" alt="simu env" width="280"/>
 </p>
 
 
 <p align="center"> 
-<img src="images/t1.gif" alt="simu env" width="200"/>
-<img src="images/t2.gif" alt="simu env" width="200"/>
-<img src="images/t3.gif" alt="simu env" width="200"/>
-<img src="images/t4.gif" alt="simu env" width="200"/>
+<img src="images/t1.gif" alt="simu env" width="280"/>
+<img src="images/t2.gif" alt="simu env" width="280"/>
+<img src="images/t3.gif" alt="simu env" width="280"/>
+<img src="images/t4.gif" alt="simu env" width="280"/>
 </p>
 
 # DexMobile Platform
