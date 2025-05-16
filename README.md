@@ -1,20 +1,18 @@
 # Overview
 This repository provides the simulation environment for the DexMobile platform and the source code for the CRM-PPO reinforcement learning model, designed for task-oriented grasping.
 
-
 <p align="center"> 
-<img src="images/twist.gif" alt="simu env" width="280"/>
-<img src="images/press.gif" alt="simu env" width="280"/>
-<img src="images/pull.gif" alt="simu env" width="280"/>
-<img src="images/wrap.gif" alt="simu env" width="280"/>
+<img src="images/t1.gif" alt="simu env" width="180"/>
+<img src="images/t2.gif" alt="simu env" width="180"/>
+<img src="images/t3.gif" alt="simu env" width="180"/>
+<img src="images/t4.gif" alt="simu env" width="180"/>
 </p>
 
-
 <p align="center"> 
-<img src="images/t1.gif" alt="simu env" width="280"/>
-<img src="images/t2.gif" alt="simu env" width="280"/>
-<img src="images/t3.gif" alt="simu env" width="280"/>
-<img src="images/t4.gif" alt="simu env" width="280"/>
+<img src="images/twist.gif" alt="simu env" width="364"/>
+<img src="images/press.gif" alt="simu env" width="364"/>
+<img src="images/pull.gif" alt="simu env" width="364"/>
+<img src="images/wrap.gif" alt="simu env" width="364"/>
 </p>
 
 # DexMobile Platform
